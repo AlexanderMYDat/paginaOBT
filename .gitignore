@@ -1,0 +1,7 @@
+.DS_Store
+.env
+node_modules/
+.claude/
+scripts/
+__pycache__/
+assets/ASSETS.md

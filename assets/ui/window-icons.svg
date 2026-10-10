@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="9" viewBox="0 0 27 9" shape-rendering="crispEdges">
+  <!-- 3 iconos de 9x9: minimizar, maximizar, cerrar -->
+  <g fill="#2B2838">
+    <path d="M0 0h9v1H0zM0 8h9v1H0zM0 1h1v7H0zM8 1h1v7H8z"/><path d="M2 6h5v1H2z"/>
+    <path d="M9 0h9v1H9zM9 8h9v1H9zM9 1h1v7H9zM17 1h1v7h-1z"/><path d="M11 2h5v1h-5zM11 3h1v3h-1zM15 3h1v3h-1zM11 6h5v1h-5z"/>
+    <path d="M18 0h9v1h-9zM18 8h9v1h-9zM18 1h1v7h-1zM26 1h1v7h-1z"/><path d="M20 2h1v1h-1zM24 2h1v1h-1zM21 3h1v1h-1zM23 3h1v1h-1zM22 4h1v1h-1zM21 5h1v1h-1zM23 5h1v1h-1zM20 6h1v1h-1zM24 6h1v1h-1z"/>
+  </g>
+</svg>
